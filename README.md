@@ -5,6 +5,7 @@ These are some sample visualizations of projects I worked on
 
 #Clustered Column Chart
 <p>This visualizes the population of male and female literacy rate as we move from left to right. From the visuals we can infer that South Africa has the highest literacy for young adults of ages 15 and above. The disparity of gender based literacy rate was also so close in countries such as South Africa and Kenya. In all cases we still find that the male population literacy rate is significantly higher.</p>
+<img src="images/GenderParityCBC.png"></img>
 
 #100% Stacked Area Chart
 <p>As we move from left to right Ethiopia has the highest male and female population concentrated in the rural area while south Africa has the lowest male and female population in the rural areas. When we talk about the urban areas we can see that though the female population dipped as we go from the countries on the left to countries on the right the male population remained at the peak. This shows that no matter the country the males are more in the urban areas compared to the female. </p>
