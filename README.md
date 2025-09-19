@@ -9,6 +9,7 @@ These are some sample visualizations of projects I worked on
 
 #100% Stacked Area Chart
 <p>As we move from left to right Ethiopia has the highest male and female population concentrated in the rural area while south Africa has the lowest male and female population in the rural areas. When we talk about the urban areas we can see that though the female population dipped as we go from the countries on the left to countries on the right the male population remained at the peak. This shows that no matter the country the males are more in the urban areas compared to the female. </p>
+<img src="images/GenderParitySAC.png"></img>
 
 #Scatter Plot
 
